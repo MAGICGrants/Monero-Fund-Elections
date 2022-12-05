@@ -15,9 +15,9 @@ This election cycle, there are 3 committee positions open for 2-year terms. Incu
 * ~23 January 2023: Election results announced
 * 31 January 2023: Newly elected members join the committee
 
-## Apply to be a Fund committee member
+## Announce your candidacy as a Fund committee member
 
-### [➡️ Click here to apply](https://github.com/MAGICGrants/Monero-Fund-Elections/issues/new?assignees=&labels=&template=committee-member-application.md&title=Candidate%3A+%5BName%2FPseudonym%5D+for+MAGIC+Monero+Fund)
+### [➡️ Click here to accounce your candidacy](https://github.com/MAGICGrants/Monero-Fund-Elections/issues/new?assignees=&labels=&template=committee-member-application.md&title=Candidate%3A+%5BName%2FPseudonym%5D+for+MAGIC+Monero+Fund)
 
 See existing applicants: https://github.com/MAGICGrants/Monero-Fund-Elections/issues
 
@@ -27,7 +27,7 @@ A committee member candidate is encouraged to apply to be a voter as well, if th
 
 ## Apply to be a Fund voter
 
-### [➡️ Click here to apply](https://docs.google.com/forms/d/e/1FAIpQLScd6RfrDs7kuGabOt-f0MLh9ur7DnMjag_p2Jfk1rOuid3E8g/viewform)
+### [➡️ Click here to apply to vote](https://docs.google.com/forms/d/e/1FAIpQLScd6RfrDs7kuGabOt-f0MLh9ur7DnMjag_p2Jfk1rOuid3E8g/viewform)
 
 You may alternatively submit nominations by email to info@magicgrants.org that address the same questions in the form:
 
