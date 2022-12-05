@@ -6,23 +6,28 @@ The MAGIC Monero Fund is one of the most important volunteer opportunities for t
 
 This election cycle, there are 3 committee positions open for 2-year terms. Incumbent seats up for election are Deverick, Csilla Brimer, and monerobull. Rucknium and kayabaNerve are 1 year into their 2 year terms.
 
+## Timeline
+
+* 5 December 2022: Committee and voter nominations open
+* 31 December 2022: Committee and voter nominations close
+* 6 January 2023: Voting opens
+* 20 January 2023: Voting closes
+* ~23 January 2023: Election results announced
+* 31 January 2023: Newly elected members join the committee
+
 ## Apply to be a Fund committee member
 
-**Apply: https://github.com/MAGICGrants/Monero-Fund-Elections/issues/new?assignees=&labels=&template=committee-member-application.md&title=Candidate%3A+%5BName%2FPseudonym%5D+for+MAGIC+Monero+Fund**
+### [Click here to apply](https://github.com/MAGICGrants/Monero-Fund-Elections/issues/new?assignees=&labels=&template=committee-member-application.md&title=Candidate%3A+%5BName%2FPseudonym%5D+for+MAGIC+Monero+Fund)
 
 See existing applicants: https://github.com/MAGICGrants/Monero-Fund-Elections/issues
 
-* Open date: 5 December 2022
-* Due date: 31 December 2022
-
 Committee member expectations: https://magicgrants.org/funds/committee_expectations/
+
+A committee member candidate is encouraged to apply to be a voter as well, if they are not one already.
 
 ## Apply to be a Fund voter
 
-**Apply: https://docs.google.com/forms/d/e/1FAIpQLScd6RfrDs7kuGabOt-f0MLh9ur7DnMjag_p2Jfk1rOuid3E8g/viewform**
-
-* Open date: 5 December 2022
-* Due date: 31 December 2022
+### [Click here to apply](https://docs.google.com/forms/d/e/1FAIpQLScd6RfrDs7kuGabOt-f0MLh9ur7DnMjag_p2Jfk1rOuid3E8g/viewform)
 
 You may alternatively submit nominations by email to info@magicgrants.org that address the same questions in the form:
 
