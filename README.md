@@ -17,7 +17,7 @@ This election cycle, there are 3 committee positions open for 2-year terms. Incu
 
 ## Announce your candidacy as a Fund committee member
 
-### [➡️ Click here to accounce your candidacy](https://github.com/MAGICGrants/Monero-Fund-Elections/issues/new?assignees=&labels=&template=committee-member-application.md&title=Candidate%3A+%5BName%2FPseudonym%5D+for+MAGIC+Monero+Fund)
+### [➡️ Click here to accounce your candidacy](https://github.com/MAGICGrants/Monero-Fund-Elections/issues/new?assignees=&labels=candidate&template=committee-member-application.md&title=Candidate%3A+%5BName%2FPseudonym%5D+for+MAGIC+Monero+Fund)
 
 See existing applicants: https://github.com/MAGICGrants/Monero-Fund-Elections/issues
 
