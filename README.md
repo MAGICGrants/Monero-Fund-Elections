@@ -27,7 +27,7 @@ A committee member candidate is encouraged to apply to be a voter as well, if th
 
 ## Apply to be a Fund voter
 
-### [➡️ Click here to apply to vote](https://docs.google.com/forms/d/e/1FAIpQLScd6RfrDs7kuGabOt-f0MLh9ur7DnMjag_p2Jfk1rOuid3E8g/viewform)
+### [➡️ Click here to apply to vote](https://docs.google.com/forms/d/e/1FAIpQLSd_-bfmfCXSBQ5HcYa2K9nMlmrCyUz8yw48zeuVYFlU6VcwCA/viewform)
 
 You may alternatively submit nominations by email to info@magicgrants.org that address the same questions in the form:
 
