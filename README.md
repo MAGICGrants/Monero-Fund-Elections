@@ -4,16 +4,16 @@ https://magicgrants.org/funds/monero
 
 The MAGIC Monero Fund is one of the most important volunteer opportunities for the ecosystem. You will meet regularly with other committee members to work on various Monero-related projects.
 
-This election cycle, there are 3 committee positions open for 2-year terms. Incumbent seats up for election are Deverick, Csilla Brimer, and monerobull. Rucknium and kayabaNerve are 1 year into their 2 year terms.
+This election cycle, there are **2** committee positions open for 2-year terms. Incumbent seats up for election are Rucknium and kayabaNerve. monerobull, artlimber, and kowalabearhugs are 1 year into their 2 year terms.
 
 ## Timeline
 
-* 5 December 2022: Committee and voter nominations open
-* 31 December 2022: Committee and voter nominations close
-* 6 January 2023: Voting opens
-* 20 January 2023: Voting closes
-* ~23 January 2023: Election results announced
-* 31 January 2023: Newly elected members join the committee
+* 5 December 2023: Committee and voter nominations open
+* 31 December 2023: Committee and voter nominations close
+* 6 January 2024: Voting opens
+* 20 January 2024: Voting closes
+* ~23 January 2024: Election results announced
+* 31 January 2024: Newly elected members join the committee
 
 ## Announce your candidacy as a Fund committee member
 
