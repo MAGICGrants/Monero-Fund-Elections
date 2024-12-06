@@ -4,7 +4,7 @@ https://magicgrants.org/funds/monero
 
 The MAGIC Monero Fund is one of the most important volunteer opportunities for the ecosystem. You will meet regularly with other committee members to work on various Monero-related projects.
 
-This election cycle, there are **5** committee positions open for 2-year terms. All seats are up for election.
+This election cycle, there are **5** committee positions open. The two receiving the highest vote ranking will serve 2-year terms. The three with the next highest vote ranking will serve 1-year terms. All seats are up for election.
 
 ## Timeline
 
@@ -21,7 +21,7 @@ This election cycle, there are **5** committee positions open for 2-year terms. 
 
 See existing applicants: https://github.com/MAGICGrants/Monero-Fund-Elections/issues
 
-Committee member expectations: https://magicgrants.org/funds/committee_expectations/
+Committee member expectations: https://magicgrants.org/funds/committee_expectations
 
 A committee member candidate is encouraged to apply to be a voter as well, if they are not one already.
 
@@ -31,16 +31,16 @@ A committee member candidate is encouraged to apply to be a voter as well, if th
 
 You may alternatively submit nominations by email to info@magicgrants.org that address the same questions in the form:
 
-* What is your name or pseudonym? This will be shown in a public list of eligible voters if you are selected: https://magicgrants.org/funds/monero/monero_fund_voters/
+* What is your name or pseudonym? This will be shown in a public list of eligible voters if you are selected: https://magicgrants.org/funds/monero/monero_fund_voters
 * What is your email address? An email address is required to participate in the election.
 * Why should you be a MAGIC Monero Fund voter? Adding good details here will significantly expedite your application and increase your odds of being selected.
 * Your name/pseudonym (as provided above) will be made public if selected. Please confirm you are okay with this. Your email will not be made public.
 
-Voter expectations: https://magicgrants.org/funds/voter_expectations/
+Voter expectations: https://magicgrants.org/funds/voter_expectations
 
 ## Voting process for existing voters
 
-https://magicgrants.org/funds/voting/
+https://magicgrants.org/funds/voting
 
 ## Donate to the MAGIC Monero Fund
 
