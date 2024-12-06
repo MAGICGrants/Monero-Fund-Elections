@@ -4,7 +4,7 @@ https://magicgrants.org/funds/monero
 
 The MAGIC Monero Fund is one of the most important volunteer opportunities for the ecosystem. You will meet regularly with other committee members to work on various Monero-related projects.
 
-This election cycle, there are **5** committee positions open. The two receiving the highest vote ranking will serve 2-year terms. The three with the next highest vote ranking will serve 1-year terms. All seats are up for election.
+This election cycle, there are **5** committee positions open. The two with the highest vote ranking will serve 2-year terms. The three with the next highest vote ranking will serve 1-year terms. All seats are up for election.
 
 ## Timeline
 
@@ -17,7 +17,7 @@ This election cycle, there are **5** committee positions open. The two receiving
 
 ## Announce your candidacy as a Fund committee member
 
-### [➡️ Click here to accounce your candidacy](https://github.com/MAGICGrants/Monero-Fund-Elections/issues/new?assignees=&labels=candidate&template=committee-member-application.md&title=Candidate%3A+%5BName%2FPseudonym%5D+for+MAGIC+Monero+Fund)
+### [➡️ Click here to announce your candidacy](https://github.com/MAGICGrants/Monero-Fund-Elections/issues/new?assignees=&labels=candidate&template=committee-member-application.md&title=Candidate%3A+%5BName%2FPseudonym%5D+for+MAGIC+Monero+Fund)
 
 See existing applicants: https://github.com/MAGICGrants/Monero-Fund-Elections/issues
 
